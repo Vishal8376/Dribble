@@ -261,10 +261,9 @@ Products.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-17 100552.png>)
-![alt text](<Screenshot 2024-12-17 100850.png>)
 ![alt text](<Screenshot 2024-12-17 100929.png>)
-![alt text](<Screenshot 2024-12-17 100953.png>)
-
+![alt text](<Screenshot 2024-12-21 114454.png>)
+![alt text](<Screenshot 2024-12-21 114510.png>)
+![alt text](<Screenshot 2024-12-21 114613.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
